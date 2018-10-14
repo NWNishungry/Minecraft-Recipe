@@ -5,6 +5,6 @@ html{
 body{
 		height:100%;
 		margin:0;
-		background-image: url(https://d1yn1kh78jj1rr.cloudfront.net/image/thumbnail/rDtN98Qoishumwih/minecraftpattern-10-091815-749_thumb.jpg);
+		background-image: linear-gradient(to right, rgba(255, 0, 0, 0.62), rgba(0, 6, 27, 0.62)), url(https://d1yn1kh78jj1rr.cloudfront.net/image/thumbnail/rDtN98Qoishumwih/minecraftpattern-10-091815-749_thumb.jpg);
 		background-repeat:repeat;
 }
